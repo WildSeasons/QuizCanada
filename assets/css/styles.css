@@ -1,0 +1,10 @@
+canvas {
+    border: 5px solid skyblue;
+    display: block;
+    margin: 0 auto;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../polices/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf");
+}
