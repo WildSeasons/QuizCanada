@@ -4,5 +4,5 @@
 
 <p>On peut commencer le quiz en cliquant sur le bouton «démarrer» du jeu. La personne doit répondre à dix choix multiples. On peut redémarrer le jeu à l'écran de fin.</p>
 
-<p>Lien du dépôt GitHub: <a target="_blank" href="https://github.com/WildSeasons/QuizCanada.git">https://github.com/WildSeasons/QuizCanada.git</a></p>
+<p>Lien du dépôt GitHub: <a target="_blank" href="https://wildseasons.github.io/QuizCanada/">https://wildseasons.github.io/QuizCanada/</a></p>
 
