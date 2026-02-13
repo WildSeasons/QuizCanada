@@ -1,8 +1,8 @@
-<h1>Quiz sur le Canada</h1>
+# Quiz sur le Canada
 
-<p>Pour un travail pratique, j'ai dû créer un jeu à l'aide de l'élément canvas. </p>
+Pour un travail pratique, j'ai dû créer un jeu à l'aide de l'élément canvas. 
 
-<p>On peut commencer le quiz en cliquant sur le bouton «démarrer» du jeu. La personne doit répondre à dix choix multiples. On peut redémarrer le jeu à l'écran de fin.</p>
+On peut commencer le quiz en cliquant sur le bouton «démarrer» du jeu. La personne doit répondre à dix choix multiples. On peut redémarrer le jeu à l'écran de fin.
 
-<p>Lien du dépôt GitHub: <a target="_blank" href="https://wildseasons.github.io/QuizCanada/">https://wildseasons.github.io/QuizCanada/</a></p>
+Lien du dépôt GitHub: [https://wildseasons.github.io/QuizCanada/](https://wildseasons.github.io/QuizCanada/)
 
